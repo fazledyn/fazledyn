@@ -1,4 +1,10 @@
-### Blogs regarding different techonology
+### Academic Repositories
+- [L2-T1](https://github.com/fazledyn/L2T1)
+- [L2-T2](https://github.com/fazledyn/L2T2)
+- [L3-T1](https://github.com/fazledyn/L3T1)
+- [L3-T2](https://github.com/fazledyn/L3T2)
+
+### Blogs Read Over The Internet
 
 #### Web, Browsers
 - [Page Lifecycle API | Google Web](https://developers.google.com/web/updates/2018/07/page-lifecycle-api)
