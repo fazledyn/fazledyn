@@ -1,3 +1,5 @@
+Read my notes [here](https://github.com/fazledyn/notes)
+
 ### Academic Repositories
 - [L2-T1](https://github.com/fazledyn/L2T1)
 - [L2-T2](https://github.com/fazledyn/L2T2)
