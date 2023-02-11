@@ -1,5 +1,3 @@
-Read my notes [here](https://github.com/fazledyn/notes)
-
 ### Academic Repositories
 #### Level 2
 - [L2-T1](https://github.com/fazledyn/L2T1)
