@@ -1,5 +1,7 @@
 ### Reading List Bookmarks 🔖
 - https://blog.bytebytego.com/p/understanding-database-types
+- https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/
+- 
 
 
 ### Blog Resources
