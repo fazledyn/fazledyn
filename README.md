@@ -6,20 +6,8 @@ I'm Ataf currently working as a Secure Software Developer at OpenRefactory Inc. 
 - Vulnerability Detection
 - Software Development
 
-### Skills
-- Programming Languages: C/C++, JavaScript, Python, Java
-- Database: MySQL, PostgreSQL, MongoDB, OracleDB
-- Frameworks: Django, Flask, ExpressJS, NextJS, React
-
-### Tools
-- Basic: Git, Bash, Linux
-- Cloud: cPanel, Cloudflare, SSH
-- Security: BurpSuite, Wireshark, dnSpy, Ghidra
-
 ### Socials
-- [Twitter](https://twitter.com/Fazledyn)
-- [LinkedIn](https://linkedin.com/in/fazledyn)
-- [My Resume](https://docs.google.com/document/d/13-dhpdWqgsIeihfKVK6X48XBdOMK0xqiPnmPW_s6WEk/edit?usp=sharing)
+[Twitter](https://twitter.com/Fazledyn), [LinkedIn](https://linkedin.com/in/fazledyn), [My Resume](https://docs.google.com/document/d/13-dhpdWqgsIeihfKVK6X48XBdOMK0xqiPnmPW_s6WEk/edit?usp=sharing)
 
 ### Websites Built By Me
 - [Abrar Fahad Archive](https://abrarfahadarchive.org)
@@ -31,8 +19,3 @@ I'm Ataf currently working as a Secure Software Developer at OpenRefactory Inc. 
 - https://blog.bytebytego.com/p/understanding-database-types
 - https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/
 - [Hosting own CTFd](https://dev.to/roeeyn/how-to-setup-your-ctfd-platform-with-https-and-ssl-3fda)
-
-### Academic Repositories
-- [L2-T1](https://github.com/fazledyn/L2T1), [L2-T2](https://github.com/fazledyn/L2T2)
-- [L3-T1](https://github.com/fazledyn/L3T1), [L3-T2](https://github.com/fazledyn/L3T2)
-- [L4-T1](https://github.com/fazledyn/L4T1), [L4-T2](https://github.com/fazledyn/L4T2)
