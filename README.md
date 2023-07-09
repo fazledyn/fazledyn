@@ -3,11 +3,7 @@ I'm currently working as a Secure Software Developer at OpenRefactory Inc. I am 
 
 ### My Interests Are
 - Cloud and Application Security
-- Vulnerability Detection
 - Software Development
-
-### You Can Reach Me
-[Twitter](https://twitter.com/Fazledyn), [LinkedIn](https://linkedin.com/in/fazledyn), [My Resume](https://docs.google.com/document/d/13-dhpdWqgsIeihfKVK6X48XBdOMK0xqiPnmPW_s6WEk/edit?usp=sharing)
 
 ### Websites Built By Me
 - [Abrar Fahad Archive](https://abrarfahadarchive.org)
