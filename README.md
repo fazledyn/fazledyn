@@ -1,12 +1,12 @@
-### Welcome to my GitHub profile! 👋
-I'm Ataf currently working as a Secure Software Developer at OpenRefactory Inc. I am a CSE Graduate from BUET, Dhaka, Bangladesh.
+### I'm Ataf. Welcome to my GitHub profile! 👋
+I'm currently working as a Secure Software Developer at OpenRefactory Inc. I am a CSE Graduate from BUET, Dhaka, Bangladesh. I'm a former CTF player and 2nd Runners' Up of National Cyber Drill 2022.
 
-### Interests
+### My Interests Are
 - Cloud and Application Security
 - Vulnerability Detection
 - Software Development
 
-### Socials
+### You Can Reach Me
 [Twitter](https://twitter.com/Fazledyn), [LinkedIn](https://linkedin.com/in/fazledyn), [My Resume](https://docs.google.com/document/d/13-dhpdWqgsIeihfKVK6X48XBdOMK0xqiPnmPW_s6WEk/edit?usp=sharing)
 
 ### Websites Built By Me
