@@ -11,15 +11,9 @@ I'm currently working as a Secure Software Developer at OpenRefactory Inc. I am 
 - [BUET Cyber Security Club Website](https://buetsec.github.io)
 - [Citadex Website](https://citadex.pages.dev)
 
-### Problemsetting
+### Problemsetter in
 - Inter-University CTF: BUET CSE Fest 2023 (Prelim + Final)
 - Intra BUET CTF 2023
 - KnightCTF 2022
 - BDSec CTF 2022
 - KnightCTF 2021
-
-### My Bookmarks 🔖
-- [Tech Blog Scraper](https://dbaman.com)
-- https://blog.bytebytego.com/p/understanding-database-types
-- https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/
-- [Hosting own CTFd](https://dev.to/roeeyn/how-to-setup-your-ctfd-platform-with-https-and-ssl-3fda)
