@@ -1,7 +1,5 @@
 ## I'm Ataf. Welcome to my GitHub profile! 👋
-I am a CSE Graduate from BUET, currently living in Dhaka, Bangladesh. I work as a Secure Software Developer at [OpenRefactory](www.openrefactory.com) in collaboration with [OpenSSF](github.com/ossf) on [Project Alpha Omega](https://alpha-omega.dev/). In this project, we find and fix bugs in open source software projects. For a detailed information, you can have a look [here](https://github.com/ossf/alpha-omega/tree/main/alpha/engagements/2023/OpenRefactory).
-
-\- Check out my public contributions at [my work profile](https://github.com/fazledyn-or)
+I am a CSE Graduate from BUET, currently living in Dhaka, Bangladesh. I work as a Secure Software Developer at [OpenRefactory](www.openrefactory.com) in collaboration with [OpenSSF](github.com/ossf) on [Project Alpha Omega](https://alpha-omega.dev/). In this project, we find and fix bugs in open source software projects. For a detailed information, you can have a look at my [Open Source Software (OSS) Bug Fixing Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT41_0Td-dXXsu9Uu0lKpZP_pLnyNCjR6sL13I_VSXp0_5WusgzCgZkkbC1LWMvogB5s0wEVnCvTLOn/pubhtml)
 
 
 ## Apart From That
