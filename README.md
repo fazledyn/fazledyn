@@ -20,3 +20,6 @@ I have had the privilege to contribute as a problem setter for many local and in
 - KnightCTF 2022 (Intl)
 - BDSec CTF 2022
 - KnightCTF 2021 (Intl)
+
+## Important Resources
+- [Caleb Brown's List](https://commondatastorage.googleapis.com/ossf-criticality-score/index.html)
