@@ -23,3 +23,4 @@ I have had the privilege to contribute as a problem setter for many local and in
 
 ## Important Resources
 - [Caleb Brown's List](https://commondatastorage.googleapis.com/ossf-criticality-score/index.html)
+- [Install Alacritty on Debian/Ubuntu](https://ubuntuhandbook.org/index.php/2023/12/install-alacritty-gpu-terminal-ubuntu/)
